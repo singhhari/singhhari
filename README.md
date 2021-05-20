@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+I'm currently doing most of my work on [iOS at Kickstarter](https://www.github.com/kickstarter/ios-oss).
+
 [![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhhari)](https://github.com/anuraghazra/github-readme-stats)
+
+Get in touch: 
 
 
 <!--
