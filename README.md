@@ -6,7 +6,7 @@ I'm currently doing most of my work on [iOS at Kickstarter](https://www.github.c
 
 Contact info:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singhhari/)](https://www.linkedin.com/in/singhhari/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singhhari/)](https://www.linkedin.com/in/singhhari/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=singh.harichandan@gmail.com)](singh.harichandan@gmail.com)
 
 
 <!--
