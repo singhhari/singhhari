@@ -4,7 +4,9 @@ I'm currently doing most of my work on [iOS at Kickstarter](https://www.github.c
 
 [![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhhari)](https://github.com/anuraghazra/github-readme-stats)
 
-Get in touch: 
+Contact info:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singhhari/)](https://www.linkedin.com/in/singhhari/)
 
 
 <!--
